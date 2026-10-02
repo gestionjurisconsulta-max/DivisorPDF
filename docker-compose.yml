@@ -1,0 +1,32 @@
+services:
+  backend:
+    build: ./backend
+    image: divisorpdf-backend
+    container_name: divisorpdf-backend
+    restart: unless-stopped
+    environment:
+      OCR_LANG: ${OCR_LANG:-spa}
+    volumes:
+      # La base de proveedores se actualiza desde fuera (es un snapshot de 'ia'),
+      # así que va montada: cambiarla no obliga a reconstruir la imagen.
+      - ./backend/data:/app/data:ro
+    expose:
+      - "9088"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:9088/docs').read()"]
+      interval: 30s
+      timeout: 5s
+      start_period: 15s
+      retries: 3
+
+  frontend:
+    build: ./frontend
+    image: divisorpdf-frontend
+    container_name: divisorpdf-frontend
+    restart: unless-stopped
+    ports:
+      # Cambiar con: PUERTO=9500 docker compose up -d
+      - "${PUERTO:-9080}:80"
+    depends_on:
+      backend:
+        condition: service_healthy

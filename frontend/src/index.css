@@ -1,0 +1,117 @@
+@import "tailwindcss";
+
+@layer base {
+  body {
+    background-color: #080b11;
+    color: #f1f5f9;
+  }
+}
+
+/* Custom Design System Tokens & Classes */
+
+/* Animated background mesh */
+.bg-mesh {
+  background-color: #080b11;
+  background-image: 
+    radial-gradient(at 0% 0%, hsla(244, 55%, 15%, 1) 0px, transparent 50%), 
+    radial-gradient(at 50% 0%, hsla(263, 60%, 12%, 1) 0px, transparent 50%),
+    radial-gradient(at 100% 0%, hsla(210, 50%, 15%, 1) 0px, transparent 50%),
+    radial-gradient(at 100% 100%, hsla(244, 55%, 10%, 1) 0px, transparent 50%),
+    radial-gradient(at 0% 100%, hsla(263, 60%, 8%, 1) 0px, transparent 50%);
+  background-size: 100% 100%;
+  background-attachment: fixed;
+}
+
+/* Glassmorphism containers */
+.glass-panel {
+  background: rgba(13, 17, 28, 0.7);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255, 255, 255, 0.05);
+}
+
+.glass-panel-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.glass-panel-hover:hover {
+  background: rgba(17, 23, 38, 0.8);
+  border-color: rgba(99, 102, 241, 0.2);
+  box-shadow: 0 10px 30px -10px rgba(0, 0, 0, 0.5);
+  transform: translateY(-2px);
+}
+
+/* Premium Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(13, 17, 28, 0.3);
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(99, 102, 241, 0.3);
+  border-radius: 99px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(99, 102, 241, 0.6);
+}
+
+/* Custom layout utilities */
+.glow-effect {
+  position: relative;
+}
+
+.glow-effect::after {
+  content: '';
+  position: absolute;
+  inset: -1px;
+  background: linear-gradient(90deg, #6366f1, #a855f7, #3b82f6);
+  border-radius: inherit;
+  z-index: -1;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+
+.glow-effect:hover::after {
+  opacity: 0.4;
+}
+
+/* Split line interactive divider */
+.split-divider-line {
+  position: relative;
+}
+
+.split-divider-line::before {
+  content: '';
+  position: absolute;
+  left: 50%;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  transform: translateX(-50%);
+  background: rgba(255, 255, 255, 0.08);
+  transition: all 0.2s ease;
+}
+
+.split-divider-line.active::before {
+  background: linear-gradient(to bottom, #10b981, #059669);
+  box-shadow: 0 0 8px rgba(16, 185, 129, 0.5);
+}
+
+/* Pulse animation for active split indicators */
+@keyframes pulse-glow {
+  0%, 100% {
+    box-shadow: 0 0 5px rgba(16, 185, 129, 0.3);
+  }
+  50% {
+    box-shadow: 0 0 15px rgba(16, 185, 129, 0.8);
+  }
+}
+
+.active-split-glow {
+  animation: pulse-glow 2s infinite;
+}

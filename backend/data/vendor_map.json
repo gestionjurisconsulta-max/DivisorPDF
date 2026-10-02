@@ -1,0 +1,1685 @@
+{
+  "suppliers": {
+    "J66956319": {
+      "name": "ALIMENTOS TEPUY S.C.P.",
+      "recurrence": 26,
+      "first_seen": "2026-04-28T11:39:12.692019",
+      "last_seen": "2026-05-22T09:48:00.423361",
+      "importes": [
+        48.18,
+        21.0,
+        48.18,
+        18.15,
+        21.0,
+        48.18,
+        25.74,
+        25.74,
+        25.74,
+        21.0,
+        48.18,
+        25.74,
+        21.0,
+        48.18,
+        25.74,
+        21.0,
+        48.18,
+        4010.0,
+        5010.0,
+        8010.0
+      ],
+      "productos": {},
+      "coherencias": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true
+      ],
+      "iva_tipos": [
+        10,
+        4.0,
+        21.0
+      ],
+      "aprendido_de_usuario": true
+    },
+    "A08615106": {
+      "name": "COALIMENT GRANOLLERS, SAU",
+      "recurrence": 239,
+      "first_seen": "2026-04-28T11:52:05.120042",
+      "last_seen": "2026-05-20T14:26:31.536529",
+      "importes": [
+        4039.73,
+        405.67,
+        823.75,
+        191.32,
+        124.96,
+        4157.75,
+        316.21,
+        205.17,
+        4129.89,
+        565.29,
+        363.88,
+        201.52,
+        207.15,
+        246.67,
+        4378.17,
+        35.46,
+        486.18,
+        3589.03,
+        526.84,
+        190.26,
+        244.6,
+        166.74,
+        190.38,
+        49.2,
+        244.59,
+        1004.56,
+        57.75,
+        57.75,
+        57.75,
+        57.75,
+        57.75
+      ],
+      "productos": {},
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "iva_tipos": [
+        4.0,
+        10.0,
+        21.0
+      ],
+      "aprendido_de_usuario": true
+    },
+    "A17371758": {
+      "name": "TRANSGOURMET IBERICA SA",
+      "recurrence": 14,
+      "first_seen": "2026-04-28T12:04:22.619485",
+      "last_seen": "2026-06-02T15:46:50.565399",
+      "importes": [
+        1524.41,
+        1524.41,
+        1524.41,
+        2152.67,
+        1351.47,
+        2477.52,
+        2225.72,
+        2152.67,
+        2477.52,
+        644.7,
+        194.04,
+        326.32,
+        4887.97
+      ],
+      "productos": {},
+      "coherencias": [
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "iva_tipos": [
+        4,
+        21.0,
+        10.0,
+        12.0
+      ],
+      "aprendido_de_usuario": true
+    },
+    "A08721177": {
+      "name": "CONDIS SUPERMERCATS SA",
+      "recurrence": 21,
+      "first_seen": "2026-04-28T14:54:03.927672",
+      "last_seen": "2026-05-22T10:27:18.196105",
+      "importes": [
+        405.66,
+        5050.54,
+        405.66,
+        651.22,
+        1583.71,
+        256.77,
+        501.2,
+        5050.54,
+        5050.54,
+        405.66,
+        651.22,
+        890.75,
+        256.77,
+        501.2,
+        405.66,
+        651.22,
+        890.75,
+        256.77,
+        501.2,
+        1.47
+      ],
+      "iva_tipos": [
+        4.0,
+        21,
+        10.0
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "V01477355": {
+      "name": "PEPSICO FOODS AIE",
+      "recurrence": 10,
+      "first_seen": "2026-04-28T14:54:04.010421",
+      "last_seen": "2026-05-20T14:39:55.553530",
+      "importes": [
+        101.63,
+        101.63,
+        101.63,
+        101.63,
+        101.63,
+        101.63,
+        360.23,
+        101.63,
+        101.63
+      ],
+      "iva_tipos": [
+        10.0
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B10752798": {
+      "name": "LA BARRACA ALIMENTACION SLU",
+      "recurrence": 9,
+      "first_seen": "2026-05-07T14:19:18.710737",
+      "last_seen": "2026-05-20T10:13:04.495481",
+      "importes": [
+        75.0,
+        25.44,
+        75.0,
+        25.44,
+        75.0,
+        25.44,
+        74.26,
+        75.0,
+        25.7
+      ],
+      "productos": {},
+      "coherencias": [
+        false,
+        true,
+        true,
+        true,
+        true
+      ],
+      "iva_tipos": [
+        10.0
+      ],
+      "aprendido_de_usuario": true
+    },
+    "B42549881": {
+      "name": "LA BARRACA ALIMENTACION SLU",
+      "recurrence": 97,
+      "first_seen": "2026-05-07T14:21:07.553672",
+      "last_seen": "2026-05-25T09:14:11.641407",
+      "importes": [
+        94.08,
+        174.15,
+        62.2,
+        91.4,
+        154.22,
+        111.8,
+        119.7,
+        75.0,
+        25.7,
+        78.63,
+        63.3,
+        64.9,
+        78.75,
+        94.08,
+        174.15,
+        62.2,
+        91.4,
+        154.22,
+        111.8,
+        119.7
+      ],
+      "productos": {},
+      "iva_tipos": [
+        10,
+        4
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "aprendido_de_usuario": true
+    },
+    "B16911646": {
+      "name": "SIA URBAN SL",
+      "recurrence": 4,
+      "first_seen": "2026-05-07T14:24:26.002473",
+      "last_seen": "2026-05-20T10:13:19.456655",
+      "importes": [
+        94.08,
+        94.08,
+        94.08,
+        94.08
+      ],
+      "productos": {},
+      "coherencias": [
+        false,
+        true
+      ],
+      "iva_tipos": [
+        10.0
+      ]
+    },
+    "B66094871": {
+      "name": "LA BARRACA ALIMENTACION SLU",
+      "recurrence": 4,
+      "first_seen": "2026-05-07T14:25:05.030379",
+      "last_seen": "2026-05-11T08:56:19.744015",
+      "importes": [
+        174.15,
+        174.15,
+        174.15,
+        174.15
+      ],
+      "productos": {},
+      "iva_tipos": [
+        10,
+        4
+      ],
+      "coherencias": [
+        true,
+        false
+      ],
+      "aprendido_de_usuario": true
+    },
+    "B16903809": {
+      "name": "SIAL EXPRESS SL",
+      "recurrence": 3,
+      "first_seen": "2026-05-07T14:27:31.887297",
+      "last_seen": "2026-05-11T08:56:25.020990",
+      "importes": [
+        152.68,
+        152.68,
+        152.68
+      ],
+      "productos": {},
+      "coherencias": [
+        true
+      ],
+      "iva_tipos": [
+        10.0
+      ]
+    },
+    "B17023995": {
+      "name": "FRIT RAVICH SL",
+      "recurrence": 129,
+      "first_seen": "2026-05-08T15:21:11.633676",
+      "last_seen": "2026-05-20T14:41:58.241425",
+      "importes": [
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        10.0,
+        990.56,
+        660.68,
+        211.01,
+        1387.03,
+        1026.25,
+        516.25,
+        115.43,
+        1451.18,
+        3049.3,
+        2106.0,
+        328.15,
+        -8673.48
+      ],
+      "productos": {},
+      "iva_tipos": [
+        0.0,
+        4,
+        21,
+        10,
+        12.0
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false
+      ],
+      "aprendido_de_usuario": true
+    },
+    "B02824563": {
+      "name": "ALNOORINT S.L",
+      "recurrence": 65,
+      "first_seen": "2026-05-08T15:40:52.517363",
+      "last_seen": "2026-05-22T08:57:15.439137",
+      "importes": [
+        273.23,
+        219.43,
+        101.49,
+        170.94,
+        179.09,
+        83.79,
+        70.66,
+        245.63,
+        41.89,
+        145.81,
+        51.35,
+        143.87,
+        273.23,
+        219.43,
+        101.49,
+        170.94,
+        83.79,
+        70.66,
+        245.63,
+        51.35
+      ],
+      "productos": {},
+      "iva_tipos": [
+        10
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "aprendido_de_usuario": true
+    },
+    "B57599714": {
+      "name": "DISPREU LOGISTICA , S.L",
+      "recurrence": 12,
+      "first_seen": "2026-05-11T08:21:58.320129",
+      "last_seen": "2026-05-22T10:30:28.433919",
+      "importes": [
+        3011.57,
+        2272.09,
+        3011.57,
+        2272.09,
+        2272.08,
+        3011.57,
+        2272.09,
+        3011.57,
+        2272.09,
+        3011.57
+      ],
+      "iva_tipos": [
+        10,
+        4,
+        21
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B61620597": {
+      "name": "MAMIPAN RIELLS SL",
+      "recurrence": 25,
+      "first_seen": "2026-05-11T08:24:21.760947",
+      "last_seen": "2026-05-22T09:33:26.349797",
+      "importes": [
+        24.84,
+        24.84,
+        99.33,
+        99.33,
+        49.66,
+        49.66,
+        49.66,
+        37.07,
+        49.66,
+        49.66,
+        37.07,
+        37.07,
+        93847.07,
+        93847.07,
+        99.33,
+        99.33,
+        99.33,
+        99.33,
+        99.33,
+        99.33
+      ],
+      "iva_tipos": [
+        0,
+        2.0,
+        4
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "A66098435": {
+      "name": "AIGUES DE BARCELONA SA",
+      "recurrence": 36,
+      "first_seen": "2026-05-11T08:29:12.544093",
+      "last_seen": "2026-05-22T10:24:32.659338",
+      "importes": [
+        157.59,
+        150.2,
+        207.57,
+        157.59,
+        207.57,
+        137.93,
+        150.2,
+        143.05,
+        207.57,
+        157.59,
+        207.57,
+        137.93,
+        150.2,
+        143.05,
+        157.59,
+        207.57,
+        137.93,
+        150.2,
+        143.05,
+        207.57
+      ],
+      "iva_tipos": [
+        10,
+        4
+      ],
+      "coherencias": [
+        true,
+        true,
+        false,
+        false,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "A17271758": {
+      "name": "Miquel Alimenta",
+      "recurrence": 1,
+      "first_seen": "2026-05-11T08:55:54.159343",
+      "last_seen": "2026-05-11T08:55:54.159343",
+      "importes": [
+        2225.72
+      ],
+      "iva_tipos": [
+        10.0,
+        4.0,
+        21.0
+      ],
+      "coherencias": [
+        true
+      ],
+      "productos": {}
+    },
+    "A37571768": {
+      "name": "Miquel Alimenta",
+      "recurrence": 1,
+      "first_seen": "2026-05-11T08:55:55.454419",
+      "last_seen": "2026-05-11T08:55:55.454419",
+      "importes": [
+        2152.67
+      ],
+      "iva_tipos": [
+        10.0,
+        4.0,
+        21.0
+      ],
+      "coherencias": [
+        true
+      ],
+      "productos": {}
+    },
+    "S84212734": {
+      "name": "Miquel Alimenta",
+      "recurrence": 1,
+      "first_seen": "2026-05-11T08:55:58.106106",
+      "last_seen": "2026-05-11T08:55:58.106106",
+      "importes": [
+        1351.41
+      ],
+      "iva_tipos": [
+        10.0,
+        4.0,
+        21.0
+      ],
+      "coherencias": [
+        false
+      ],
+      "productos": {}
+    },
+    "A17871788": {
+      "name": "Miquel Alimenta",
+      "recurrence": 1,
+      "first_seen": "2026-05-11T08:55:59.445743",
+      "last_seen": "2026-05-11T08:55:59.445743",
+      "importes": [
+        2477.52
+      ],
+      "iva_tipos": [
+        10.0,
+        21.0
+      ],
+      "coherencias": [
+        false
+      ],
+      "productos": {}
+    },
+    "B88323175": {
+      "name": "CANDELA COMERCIALIZADORA SL",
+      "recurrence": 40,
+      "first_seen": "2026-05-13T11:40:01.906422",
+      "last_seen": "2026-05-22T10:23:04.065593",
+      "importes": [
+        494.19,
+        7083.03,
+        494.19,
+        625.3,
+        1877.48,
+        2036.27,
+        823.84,
+        2232.99,
+        494.19,
+        625.3,
+        1877.48,
+        2036.27,
+        823.84,
+        2232.99,
+        1877.48,
+        2036.27,
+        1877.48,
+        2036.27,
+        823.84,
+        2232.99
+      ],
+      "iva_tipos": [
+        0,
+        2.0,
+        4,
+        17,
+        18,
+        21
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "A09000928": {
+      "name": "CAMPOFRIO FOOD GROUP, SA",
+      "recurrence": 15,
+      "first_seen": "2026-05-13T15:51:07.363017",
+      "last_seen": "2026-05-20T13:07:18.663518",
+      "importes": [
+        2229.2,
+        2712.38,
+        78.91,
+        2229.2,
+        2712.38,
+        2712.38,
+        2229.2,
+        2229.2,
+        2712.38,
+        78.91,
+        2229.2,
+        2712.38,
+        78.91
+      ],
+      "iva_tipos": [
+        10,
+        4
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "A25021692": {
+      "name": "BUENAVENTURA BORRAS SA",
+      "recurrence": 2,
+      "first_seen": "2026-05-13T15:53:05.017177",
+      "last_seen": "2026-05-18T14:20:55.141814",
+      "importes": [
+        1004.56
+      ],
+      "iva_tipos": [
+        10
+      ],
+      "coherencias": [
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "A25041146": {
+      "name": "LACREM SA",
+      "recurrence": 8,
+      "first_seen": "2026-05-15T14:22:27.613309",
+      "last_seen": "2026-05-22T10:36:40.010135",
+      "importes": [
+        85.87,
+        78.06,
+        88.5,
+        82.48,
+        78.06,
+        78.06,
+        78.06
+      ],
+      "iva_tipos": [
+        10
+      ],
+      "coherencias": [
+        true,
+        true,
+        false
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B70730486": {
+      "name": "EURONET SERVICES IBERIA S.L",
+      "recurrence": 8,
+      "first_seen": "2026-05-15T14:26:04.035290",
+      "last_seen": "2026-05-20T14:39:15.236975",
+      "importes": [
+        847.0,
+        847.0,
+        847.0,
+        847.0,
+        847.0,
+        847.0,
+        847.0
+      ],
+      "iva_tipos": [
+        21
+      ],
+      "coherencias": [
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B13612577": {
+      "name": "SALTRA APLICACIONES SL",
+      "recurrence": 9,
+      "first_seen": "2026-05-18T14:20:55.126068",
+      "last_seen": "2026-05-22T09:29:57.201700",
+      "importes": [
+        1260.0,
+        260.0,
+        260.0,
+        260.0,
+        260.0,
+        260.0,
+        260.0,
+        7260.0,
+        7260.0
+      ],
+      "iva_tipos": [
+        21
+      ],
+      "coherencias": [
+        true,
+        false,
+        false
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B72562051": {
+      "name": "ADX Renovables S.L",
+      "recurrence": 2,
+      "first_seen": "2026-05-18T14:20:55.130310",
+      "last_seen": "2026-05-20T12:22:23.327550",
+      "importes": [
+        23.84,
+        23.84
+      ],
+      "iva_tipos": [
+        21
+      ],
+      "coherencias": [
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B86561412": {
+      "name": "COCA COLA EUROPEAN PARTNERS IB",
+      "recurrence": 7,
+      "first_seen": "2026-05-18T14:20:55.150223",
+      "last_seen": "2026-05-27T10:48:36.747778",
+      "importes": [
+        23.84,
+        43.85,
+        1524.41,
+        1202.26,
+        43.85,
+        337.03
+      ],
+      "iva_tipos": [
+        10.0,
+        4.0,
+        21.0
+      ],
+      "coherencias": [
+        true,
+        true,
+        true,
+        true,
+        true,
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "A17029067": {
+      "name": "INDUSTRIAL PASTELERA SAN NARCI",
+      "recurrence": 10,
+      "first_seen": "2026-05-19T16:06:26.938255",
+      "last_seen": "2026-05-22T10:32:42.471823",
+      "importes": [
+        180.48,
+        180.48,
+        180.48,
+        10.0,
+        128.46,
+        180.48,
+        10.0,
+        128.46,
+        180.48,
+        10.0
+      ],
+      "productos": {},
+      "coherencias": [
+        true
+      ],
+      "iva_tipos": [
+        10.0,
+        4.0
+      ]
+    },
+    "B60449923": {
+      "name": "DISTRIBUCIONES DELFIN GARCIA S",
+      "recurrence": 7,
+      "first_seen": "2026-05-19T16:08:38.521488",
+      "last_seen": "2026-05-20T14:37:54.888748",
+      "importes": [
+        78.06,
+        153.01,
+        72.26,
+        78.06,
+        78.06,
+        153.01,
+        72.26
+      ],
+      "productos": {}
+    },
+    "B67282871": {
+      "name": "GLOVOAPP SPAIN PLATFORM SL",
+      "recurrence": 19,
+      "first_seen": "2026-05-20T09:58:12.422716",
+      "last_seen": "2026-05-20T10:12:34.458458",
+      "importes": [
+        1931.68,
+        2416.88,
+        2036.41,
+        1612.19,
+        1498.78,
+        1907.34,
+        272.08,
+        346.22,
+        1931.68,
+        2416.88,
+        2036.41,
+        1612.19,
+        1498.78,
+        1931.68,
+        2416.88,
+        2036.41,
+        1612.19,
+        1498.78,
+        1907.34
+      ],
+      "productos": {},
+      "iva_tipos": [
+        2.0,
+        21
+      ],
+      "coherencias": [
+        true,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "aprendido_de_usuario": true
+    },
+    "A83313668": {
+      "name": "MERICA",
+      "recurrence": 4,
+      "first_seen": "2026-05-20T10:11:49.822390",
+      "last_seen": "2026-05-22T09:52:19.682649",
+      "importes": [
+        60.19,
+        123.71,
+        223.94,
+        60.19
+      ],
+      "iva_tipos": [
+        4.0,
+        10.0
+      ],
+      "coherencias": [
+        true,
+        true,
+        true
+      ],
+      "productos": {}
+    },
+    "B63642854": {
+      "name": "DISCARRY 2005 SL",
+      "recurrence": 1,
+      "first_seen": "2026-05-20T10:12:32.859761",
+      "last_seen": "2026-05-20T10:12:32.859761",
+      "importes": [
+        340.7
+      ],
+      "iva_tipos": [
+        10.0
+      ],
+      "coherencias": [
+        true
+      ],
+      "productos": {}
+    },
+    "B16933814": {
+      "name": "AB CITY SUPERMARKET S.L.",
+      "recurrence": 23,
+      "first_seen": "2026-05-20T10:26:25.517576",
+      "last_seen": "2026-05-20T11:28:45.962917",
+      "importes": [
+        37.07,
+        49.66,
+        49.66,
+        37.07,
+        37.07,
+        93847.07,
+        36.71,
+        86.74,
+        93847.07,
+        93847.07,
+        35.94,
+        758.0,
+        88.99,
+        272.84,
+        37.07,
+        49.66,
+        49.66,
+        37.07,
+        37.07,
+        93847.07
+      ],
+      "productos": {}
+    },
+    "A80060171": {
+      "name": "ORCONSA SA",
+      "recurrence": 1,
+      "first_seen": "2026-05-20T10:51:28.712165",
+      "last_seen": "2026-05-20T10:51:28.712165",
+      "importes": [
+        526.42
+      ],
+      "productos": {}
+    },
+    "B61381331": {
+      "name": "OUS ALE├æA SL",
+      "recurrence": 7,
+      "first_seen": "2026-05-20T10:52:11.139058",
+      "last_seen": "2026-05-20T15:20:34.705021",
+      "importes": [
+        149.9,
+        89.58,
+        149.9,
+        35.94,
+        758.0,
+        149.9,
+        35.94
+      ],
+      "productos": {}
+    },
+    "A28013050": {
+      "name": "CASER",
+      "recurrence": 1,
+      "first_seen": "2026-05-20T10:57:08.989974",
+      "last_seen": "2026-05-20T10:57:08.989974",
+      "importes": [
+        515.06
+      ],
+      "productos": {}
+    },
+    "A08332322": {
+      "name": "TEODORO GARCIA S.A.",
+      "recurrence": 1,
+      "first_seen": "2026-05-20T10:57:50.947907",
+      "last_seen": "2026-05-20T10:57:50.947907",
+      "importes": [
+        787.3
+      ],
+      "productos": {}
+    },
+    "B09981598": {
+      "name": "U.N.A. WAREHOUSE, S.L.",
+      "recurrence": 1,
+      "first_seen": "2026-05-20T10:58:50.698702",
+      "last_seen": "2026-05-20T10:58:50.698702",
+      "importes": [
+        910.04
+      ],
+      "productos": {}
+    },
+    "B58384587": {
+      "name": "PEIRON -TORRENT, S.L.",
+      "recurrence": 2,
+      "first_seen": "2026-05-20T11:41:06.557154",
+      "last_seen": "2026-05-20T11:42:41.332048",
+      "importes": [
+        88.29,
+        515.06
+      ],
+      "productos": {}
+    },
+    "B17040205": {
+      "name": "CREACIONES JUMI, SL",
+      "recurrence": 2,
+      "first_seen": "2026-05-20T14:32:21.582255",
+      "last_seen": "2026-05-20T14:33:01.979678",
+      "importes": [
+        578.16,
+        -741.56
+      ],
+      "productos": {}
+    },
+    "A08115032": {
+      "name": "CAPRABO SA",
+      "recurrence": 1,
+      "first_seen": "2026-05-20T14:50:53.065421",
+      "last_seen": "2026-05-20T14:50:53.065421",
+      "importes": [
+        1524.41
+      ],
+      "productos": {}
+    },
+    "46575515D": {
+      "name": "ISABEL ORDUNA RODRIGUEZ",
+      "recurrence": 1,
+      "first_seen": "2026-05-22T09:22:40.922622",
+      "last_seen": "2026-05-22T09:22:40.922622",
+      "importes": [],
+      "productos": {},
+      "coherencias": [],
+      "iva_tipos": [
+        21.0
+      ],
+      "aprendido_de_usuario": true
+    },
+    "B55141022": {
+      "name": "BOX GENERAL COMPANY, SL",
+      "recurrence": 2,
+      "first_seen": "2026-05-26T14:46:21.898126",
+      "last_seen": "2026-05-26T14:46:41.438366",
+      "importes": [
+        57.75,
+        57.75
+      ],
+      "productos": {},
+      "iva_tipos": [
+        10
+      ],
+      "coherencias": [
+        true
+      ],
+      "aprendido_de_usuario": true
+    },
+    "F22510173": {
+      "name": "43Bad8B1 A639 1348 4Bca E6Bcce40Afdc.Pdf",
+      "recurrence": 1,
+      "first_seen": "2026-05-11T08:55:27.309104",
+      "last_seen": "2026-05-11T08:55:27.309104",
+      "importes": [
+        5050.54
+      ],
+      "iva_tipos": [],
+      "coherencias": [
+        false
+      ],
+      "productos": {}
+    },
+    "S84481829": {
+      "name": "Multifactura 13.Pdf",
+      "recurrence": 1,
+      "first_seen": "2026-05-11T08:56:11.463588",
+      "last_seen": "2026-05-11T08:56:11.463588",
+      "importes": [
+        76.63
+      ],
+      "iva_tipos": [
+        10.0
+      ],
+      "coherencias": [
+        true
+      ],
+      "productos": {}
+    },
+    "S81690387": {
+      "name": "Multifactura 18.Pdf",
+      "recurrence": 1,
+      "first_seen": "2026-05-11T08:56:17.187097",
+      "last_seen": "2026-05-11T08:56:17.187097",
+      "importes": [
+        78.75
+      ],
+      "iva_tipos": [
+        10.0
+      ],
+      "coherencias": [
+        true
+      ],
+      "productos": {}
+    },
+    "A26826000": {
+      "name": "Multifactura 3.Pdf",
+      "recurrence": 1,
+      "first_seen": "2026-05-11T08:56:21.404362",
+      "last_seen": "2026-05-11T08:56:21.404362",
+      "importes": [
+        62.2
+      ],
+      "iva_tipos": [
+        10.0
+      ],
+      "coherencias": [
+        true
+      ],
+      "productos": {}
+    },
+    "CAND250053028": {
+      "name": "CANDELA COMERCIALIZADORA SL",
+      "recurrence": 1,
+      "first_seen": "2026-05-13T11:39:02.107845",
+      "last_seen": "2026-05-13T11:39:02.107845",
+      "importes": [
+        1877.48
+      ],
+      "iva_tipos": [
+        21
+      ],
+      "coherencias": [
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B55372353": {
+      "name": "B55372353",
+      "recurrence": 1,
+      "first_seen": "2026-05-18T14:20:55.127592",
+      "last_seen": "2026-05-18T14:20:55.127592",
+      "importes": [],
+      "iva_tipos": [],
+      "coherencias": [
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B16903817": {
+      "name": "AERONNA FOOD SL",
+      "recurrence": 2,
+      "first_seen": "2026-05-22T10:16:30.313968",
+      "last_seen": "2026-05-22T10:27:59.713545",
+      "importes": [
+        1004.56,
+        340.7
+      ],
+      "productos": {}
+    },
+    "B67062638": {
+      "name": "DHOTHAR BR S.L.",
+      "recurrence": 4,
+      "first_seen": "2026-05-22T10:37:57.826886",
+      "last_seen": "2026-05-22T10:41:27.678413",
+      "importes": [
+        2225.72,
+        2152.67,
+        1202.26,
+        2477.52
+      ],
+      "productos": {}
+    },
+    "B16912818": {
+      "name": "UPSCALE SIAL SL",
+      "recurrence": 1,
+      "first_seen": "2026-05-25T09:08:45.138650",
+      "last_seen": "2026-05-25T09:08:45.138650",
+      "importes": [
+        38.32
+      ],
+      "productos": {}
+    },
+    "A84354174": {
+      "name": "BIMBO DONUTS IBERIA SA",
+      "recurrence": 15,
+      "first_seen": "2026-05-26T15:33:25.222050",
+      "last_seen": "2026-05-26T15:55:14.060062",
+      "importes": [
+        68.8,
+        66.05,
+        75.18,
+        158.1,
+        276.21,
+        5575.66,
+        75.1,
+        119.86,
+        -2.37,
+        10.96,
+        80.12,
+        128.48,
+        25.62,
+        223.94,
+        25.62
+      ],
+      "productos": {},
+      "iva_tipos": [
+        10,
+        4
+      ],
+      "coherencias": [
+        true,
+        true
+      ],
+      "aprendido_de_usuario": true
+    },
+    "37703046C": {
+      "name": "MALAGRIDA VALLS, MANUEL",
+      "recurrence": 2,
+      "first_seen": "2026-06-01T10:02:54.175342",
+      "last_seen": "2026-06-01T10:03:25.173872",
+      "importes": [
+        4697.09,
+        4697.09
+      ],
+      "iva_tipos": [
+        21
+      ],
+      "coherencias": [
+        true,
+        true
+      ],
+      "productos": {},
+      "aprendido_de_usuario": true
+    },
+    "B62159959": {
+      "name": "ASIAN POWERS, S.L.",
+      "recurrence": 3,
+      "first_seen": "2026-06-01T11:50:04.172342",
+      "last_seen": "2026-06-01T11:54:24.358777",
+      "importes": [
+        437.59,
+        294.4,
+        424.38
+      ],
+      "productos": {},
+      "iva_tipos": [
+        10,
+        21
+      ],
+      "coherencias": [
+        true
+      ],
+      "aprendido_de_usuario": true
+    },
+    "B65914301": {
+      "name": "Consultor de CO2, S.L.",
+      "recurrence": 1,
+      "first_seen": "2026-06-01T11:52:35.064086",
+      "last_seen": "2026-06-01T11:52:35.064086",
+      "importes": [
+        424.38
+      ],
+      "productos": {}
+    },
+    "B67062620": {
+      "name": "PAK CATALUNYA SXXI SL",
+      "recurrence": 1,
+      "first_seen": "2026-06-02T15:27:28.119626",
+      "last_seen": "2026-06-02T15:27:28.119626",
+      "importes": [
+        326.32
+      ],
+      "productos": {}
+    }
+  }
+}
